@@ -1,7 +1,10 @@
-# .github
+# Información General
+
 Repositorio de desarrollos del Coordinador Eléctrico Nacional
 
 Agregar aqui información para inicio del github
+
+
 
 Encargados por gerencias para solicitudes de repositorios
 Gerencia de Mercados:
