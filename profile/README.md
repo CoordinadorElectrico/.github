@@ -17,7 +17,7 @@ Aquí encontrará:
 
 ## 🆕 ¿Vas a crear un repo nuevo? Empieza acá
 
-### 2. Ponle un buen nombre
+### 1. Ponle un buen nombre
 
 Usamos el formato **`tipo-nombre-descriptivo`** en minúsculas con guiones. Ejemplos:
 
