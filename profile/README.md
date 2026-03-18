@@ -17,17 +17,6 @@ Aquí encontrará:
 
 ## 🆕 ¿Vas a crear un repo nuevo? Empieza acá
 
-### 1. Elige un template
-
-No partas de cero. Cuando crees un repo nuevo, en el dropdown **"Repository template"** elige el que corresponda:
-
-| Template | Cuándo usarlo |
-|----------|---------------|
-| [`template-python`](https://github.com/CoordinadorElectrico/template-python) | Scripts de análisis, modelos, automatizaciones en Python |
-| [`template-documentacion`](https://github.com/CoordinadorElectrico/template-documentacion) | Manuales, guías, estándares, documentación |
-
-Cada template ya trae README, `.gitignore`, y estructura de carpetas lista. Solo llena la descripción y pon tu código.
-
 ### 2. Ponle un buen nombre
 
 Usamos el formato **`tipo-nombre-descriptivo`** en minúsculas con guiones. Ejemplos:
@@ -43,6 +32,17 @@ Usamos el formato **`tipo-nombre-descriptivo`** en minúsculas con guiones. Ejem
 Prefijos disponibles: `analisis-` · `app-` · `auto-` · `lib-` · `doc-` · `macro-` · `infra-` · `template-`
 
 📖 [Guía completa de naming convention](https://github.com/CoordinadorElectrico/RUTA-AL-DOCUMENTO/blob/main/NAMING_CONVENTION.md)
+
+### 2. Elige un template
+
+No partas de cero. Cuando crees un repo nuevo, puedes en el dropdown **"Repository template"** eligir el template que corresponda:
+
+| Template | Cuándo usarlo |
+|----------|---------------|
+| [`template-python`](https://github.com/CoordinadorElectrico/template-python) | Scripts de análisis, modelos, automatizaciones en Python |
+| [`template-documentacion`](https://github.com/CoordinadorElectrico/template-documentacion) | Manuales, guías, estándares, documentación |
+
+Cada template ya trae README, `.gitignore`, y estructura de carpetas lista. Solo llena la descripción y pon tu código.
 
 ### 3. Agrega descripción y topics
 
@@ -92,9 +92,9 @@ En la página de tu repo, haz clic en el ⚙️ junto a "About" y agrega:
 
 | Gerencia | Encargado |
 |----------|-----------|
-| Gerencia de Mercados | *por definir* |
-| Gerencia Operación | *por definir* |
-| Gerencia de Planificación y Desarrollo de la Red | *por definir* |
+| Gerencia de Mercados | Philip McColl Albuja <br> Alonso Flores Ulloa |
+| Gerencia Operación | Pablo Álvarez Kovacic |
+| Gerencia de Planificación y Desarrollo de la Red | Paulina Silva Labra |
 | Gerencia de Tecnología y Sistemas | *por definir* |
 | Gerencia Personas y Administración | *por definir* |
 
@@ -104,7 +104,7 @@ En la página de tu repo, haz clic en el ⚙️ junto a "About" y agrega:
 
 | Recurso | Descripción |
 |---------|-------------|
-| [SharePoint de Programadores CEN](ENLACE-SHAREPOINT) | Capacitaciones, cafés de programadores, ejercicios y material complementario |
+| [SharePoint de Programadores CEN](https://cdec365.sharepoint.com/:u:/r/sites/ProgramadoresCEN/SitePages/Home.aspx?csf=1&web=1&e=34dzmI) | Capacitaciones, cafés de programadores, ejercicios y material complementario |
 | [Template Python](https://github.com/CoordinadorElectrico/template-python) | Template para proyectos de análisis y automatización |
 | [Template Documentación](https://github.com/CoordinadorElectrico/template-documentacion) | Template para manuales y guías |
 | [Naming Convention](https://github.com/CoordinadorElectrico/RUTA-AL-DOCUMENTO/blob/main/NAMING_CONVENTION.md) | Guía completa de nombres, prefijos y topics |
