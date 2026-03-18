@@ -29,8 +29,6 @@ Usamos el formato **`tipo-nombre-descriptivo`** en minúsculas con guiones. Ejem
 | `macro-lee-flujo-ac` | ✅ Macro de Excel bien identificada |
 | `ProyectoNuevo_v2_final` | ❌ Sin prefijo, guiones bajos, mayúsculas |
 
-Prefijos disponibles: `analisis-` · `app-` · `auto-` · `lib-` · `doc-` · `macro-` · `infra-` · `template-`
-
 📖 [Guía completa de naming convention](https://github.com/CoordinadorElectrico/RUTA-AL-DOCUMENTO/blob/main/NAMING_CONVENTION.md)
 
 ### 2. Elige un template
