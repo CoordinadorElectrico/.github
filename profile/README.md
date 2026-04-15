@@ -71,7 +71,7 @@ En la página de tu repo, haz clic en el ⚙️ junto a "About" y agrega:
 - Solicitar revisión de pares antes de publicar
 - Alinear desarrollos con los lineamientos arquitectónicos publicados por la Oficina de Arquitectura Empresarial
 
-📖 [Ver Manual de Buenas Prácticas](https://github.com/CoordinadorElectrico/RUTA-AL-MANUAL)
+📖 [Ver Manual de Buenas Prácticas](https://cdec365.sharepoint.com/sites/ProgramadoresCEN/Documentos%20compartidos/Programadores%20CEN%20(Canal)/Manual_CitizensDev_v1.pdf)
 
 ---
 
