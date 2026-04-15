@@ -82,7 +82,7 @@ En la página de tu repo, haz clic en el ⚙️ junto a "About" y agrega:
 <!-- ![Repos con descripción](https://github.com/CoordinadorElectrico/cen-metrics/blob/main/badges/repos-con-descripcion.svg) -->
 <!-- ![Naming compliance](https://github.com/CoordinadorElectrico/cen-metrics/blob/main/badges/naming-compliance.svg) -->
 
-📈 [Ver dashboard completo de métricas](https://github.com/CoordinadorElectrico/cen-metrics)
+📈 [Ver dashboard completo de métricas]([https://github.com/CoordinadorElectrico/cen-metrics](https://github.com/CoordinadorElectrico/CEN-Metricas))
 
 ---
 
