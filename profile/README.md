@@ -104,7 +104,7 @@ En la página de tu repo, haz clic en el ⚙️ junto a "About" y agrega:
 |---------|-------------|
 | [SharePoint de Programadores CEN](https://cdec365.sharepoint.com/:u:/r/sites/ProgramadoresCEN/SitePages/Home.aspx?csf=1&web=1&e=34dzmI) | Capacitaciones, cafés de programadores, ejercicios y material complementario |
 | [CEN Métricas](https://github.com/CoordinadorElectrico/CEN-Metricas) | Dashboard de métricas de la organización |
-| [Manual de Buenas Prácticas]([https://github.com/CoordinadorElectrico/RUTA-AL-MANUAL](https://cdec365.sharepoint.com/sites/ProgramadoresCEN/Documentos%20compartidos/Programadores%20CEN%20(Canal)/Manual_CitizensDev_v1.pdf)) | Guía paso a paso para tu entorno de desarrollo |
+| [Manual de Buenas Prácticas]((https://cdec365.sharepoint.com/sites/ProgramadoresCEN/Documentos%20compartidos/Programadores%20CEN%20(Canal)/Manual_CitizensDev_v1.pdf)) | Guía paso a paso para tu entorno de desarrollo |
 | [Naming Convention](https://github.com/CoordinadorElectrico/RUTA-AL-DOCUMENTO/blob/main/NAMING_CONVENTION.md) | Guía completa de nombres, prefijos y topics |
 | [Template Python](https://github.com/CoordinadorElectrico/template-python) | Template para proyectos de análisis y automatización |
 | [Template Documentación](https://github.com/CoordinadorElectrico/template-documentacion) | Template para manuales y guías |
